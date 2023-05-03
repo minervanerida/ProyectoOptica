@@ -5,6 +5,7 @@ public class Principal {
 		// TODO Auto-generated method stub
 
 		//Esta es la clase principal de mi proyecto de optica
+		//para la asignatura de ticII
 	}
 
 }
